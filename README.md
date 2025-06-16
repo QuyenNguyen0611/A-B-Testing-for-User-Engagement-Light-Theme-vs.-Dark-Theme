@@ -1,4 +1,5 @@
-# A/B Testing: Light vs. Dark Theme Performance \
+# A/B Testing: Light vs. Dark Theme Performance 
+
 This project analyzes user interaction data from an online bookstore to evaluate the performance of two website themes — Light Theme (existing design) and Dark Theme (new design). The goal is to guide business decisions by identifying whether one theme drives better user engagement and conversion through statistical analysis and data visualization.
 
 ## Business Objective
@@ -36,7 +37,7 @@ Two-Sample T-Test for comparing average session durations.
 - Session Duration: Slight difference between themes, also not statistically significant (p = 0.72).
 - Engagement Metrics: Light Theme showed marginally better bounce rate and scroll depth.
 
-## Conclusion: \
+## Conclusion: 
 No compelling evidence that one theme significantly outperforms the other. Differences appear due to random variation.
 
 ## Tools & Libraries
